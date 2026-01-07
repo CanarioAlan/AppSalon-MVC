@@ -1,6 +1,6 @@
 <h1 class="nombre-pagina">Crear una cuenta</h1>
 <p class="descripcion-pagina">Llena el siguiente formulario para crear una cuenta</p>
-<form action="/crear-cuenta" method="post" class="formulario">
+<form action="/crear-cuenta" method="POST" class="formulario">
     <div class="campo">
         <label for="nombre">Nombre</label>
         <input
